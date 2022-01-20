@@ -1,3 +1,9 @@
+---
+name: Custom issue template
+about: Create a issue 
+
+---
+
 * [ ] Have u googled the problem? If no, pls do that first!
 
 ### Environment
